@@ -1,0 +1,2 @@
+kernel/drivers/net/wireless/rsi/rsi_91x.ko
+kernel/drivers/net/wireless/rsi/rsi_usb.ko
